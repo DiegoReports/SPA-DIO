@@ -1,0 +1,38 @@
+<h1 *ngIf="!isChange" mat-dialog-title>Criar Perfil</h1>
+<h1 *ngIf="isChange" mat-dialog-title>Editar Perfil</h1>
+<div mat-dialog-content>
+  <mat-form-field appearance="fill">
+    <mat-label>Position</mat-label>
+    <input matInput [(ngModel)]="data.position" />
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>Nome</mat-label>
+    <input matInput [(ngModel)]="data.name" />
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>E-mail</mat-label>
+    <input matInput [(ngModel)]="data.email" />
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>Linkedin</mat-label>
+    <input matInput [(ngModel)]="data.linkedin" />
+  </mat-form-field>
+</div>
+
+<div mat-dialog-actions>
+  <button mat-button (click)="onCancel()">Cancelar</button>
+  <button
+    *ngIf="!isChange"
+    mat-button
+    [mat-dialog-close]="data"
+    cdkFocusInitial
+  >
+    Criar
+  </button>
+  <button *ngIf="isChange" mat-button [mat-dialog-close]="data" cdkFocusInitial>
+    Editar
+  </button>
+</div>
