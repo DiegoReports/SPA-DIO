@@ -8,9 +8,7 @@ Aplicação desenvolvida em Angular para cadastro de perfis profissionais. Desaf
 
 ## ⚙️Tecnologias:
 
-[](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-[](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="badge Angular"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="badge Netfly">
 
 ## 🔥 O Desafio:
 
