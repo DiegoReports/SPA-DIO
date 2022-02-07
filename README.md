@@ -63,4 +63,6 @@ Execute `ng build` para compilar o projeto. Os artefatos de construção serão 
 
 ---
 
-🚧 Desenvolvido por [**Diego Henrique**](https://www.linkedin.com/in/diego-henrique-sg/)
+<p align=center>
+🚧 Desenvolvido por <a href="https://www.linkedin.com/in/diego-henrique-sg/">Diego Henrique</a>
+</p>
