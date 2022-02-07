@@ -35,3 +35,9 @@ a {
 .title {
   color: rgb(39, 61, 156);
 }
+
+@media (max-width: 452px) {
+  .container {
+    padding: 0;
+  }
+}
