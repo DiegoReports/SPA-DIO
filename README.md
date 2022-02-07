@@ -1,4 +1,4 @@
-# SPA PROFILES - Angular
+<h1 align=center>SPA PROFILES - Angular</h1>
 
 Aplicação desenvolvida em Angular para cadastro de perfis profissionais. Desafio proposto pela [Digital Innovation One](https://www.dio.me/) no Lab: “Desenvolvendo SPA com Angular”.
 
