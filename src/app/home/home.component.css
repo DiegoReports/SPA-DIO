@@ -40,4 +40,8 @@ a {
   .container {
     padding: 0;
   }
+
+  button {
+    padding: 10px 20px;
+  }
 }
