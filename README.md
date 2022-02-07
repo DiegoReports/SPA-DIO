@@ -4,7 +4,7 @@ Aplicação desenvolvida em Angular para cadastro de perfis profissionais. Desaf
 
 ![SPA-PROFILES.png](src/assets/SPA-PROFILES.png)
 
-<p align=center><strong>Visualize o projeto <a href="#">Clicando aqui</a></strong></p>
+<p align=center><strong>Visualize o projeto <a href="https://spa-dio.netlify.app/">Clicando aqui</a></strong></p>
 
 ## ⚙️Tecnologias:
 
